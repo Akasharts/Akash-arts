@@ -83,8 +83,8 @@ nav ul li a{
 				transition:0.6s ease;
 }
 nav ul li:hover{
-           background-color: #fff;
-           color:#fff;
+           background: -webkit-linear-gradient(right, #a445b2, #fa4299, #a445b2, #fa4299);
+           color:#000;
 }
 nav ul li.active a{
 				background-color: #fff;
